@@ -1,5 +1,8 @@
 ![](sid.jpg)
-## Hi!
+<p align='center'>
+## Hello There!
+I am a software devloper and content creator.
+</p>
 
 
 <!--
