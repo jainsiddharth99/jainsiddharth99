@@ -10,17 +10,17 @@
 
 ## Tools & Technologies
 
-![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=flat&logo=python)
-![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=flat&logo=html5)
-![](https://img.shields.io/badge/Code-CSS-%23ee4e34?style=flat&logo=css3)
+![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=flat&logo=python&logoColor=ee4e34&labelColor=fcedda)
+![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=flat&logo=javascript&logoColor=ee4e34&labelColor=fcedda)
+![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=flat&logo=html5&logoColor=ee4e34&labelColor=fcedda)
+![](https://img.shields.io/badge/Code-CSS-%23ee4e34?style=flat&logo=css3&logoColor=ee4e34&labelColor=fcedda)
 
 
-![](https://img.shields.io/badge/Database-MySQL-%23ee4e34?style=flat&logo=mysql)
-![](https://img.shields.io/badge/Database-MongoDB-%23ee4e34?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Database-Firebase-%23ee4e34?style=flat&logo=firebase)
+![](https://img.shields.io/badge/Database-MySQL-%23ee4e34?style=flat&logo=mysql&logoColor=ee4e34&labelColor=fcedda)
+![](https://img.shields.io/badge/Database-MongoDB-%23ee4e34?style=flat&logo=mongodb&logoColor=ee4e34&labelColor=fcedda)
+![](https://img.shields.io/badge/Database-Firebase-%23ee4e34?style=flat&logo=firebase&logoColor=ee4e34&labelColor=fcedda)
 
 
 ![](https://img.shields.io/badge/Editing-Adobe%20After%20Effects-%23ee4e34?style=flat&logo=adobe-after-effects&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro&logoColor=ee4e34)
-![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&labelColor=fcedda&logoColor=white)
+![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro&logoColor=ee4e34&labelColor=fcedda)
+![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&logoColor=ee4e34&labelColor=fcedda)
