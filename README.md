@@ -9,4 +9,6 @@
 </p>
 
 ## Technologies
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=plastic&logo=python)
+![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=plastic&logo=javascript)
+![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=plastic&logo=html5)
