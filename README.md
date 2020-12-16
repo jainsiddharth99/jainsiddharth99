@@ -21,6 +21,6 @@
 ![](https://img.shields.io/badge/Code-Firebase-%23ee4e34?style=flat&logo=firebase)
 
 ### Editing
-![](https://img.shields.io/badge/Code-After-Effects-%23ee4e34?style=flat&logo=adobe-after-effects)
+![](https://img.shields.io/badge/Code-Adobe%20After%20Effects-%23ee4e34?style=flat&logo=adobe-after-effects)
 ![](https://img.shields.io/badge/Code-Firebase-%23ee4e34?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/Code-Firebase-%23ee4e34?style=flat&logo=firebase)
