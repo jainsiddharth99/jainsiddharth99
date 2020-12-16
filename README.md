@@ -22,5 +22,5 @@
 
 ### Editing
 ![](https://img.shields.io/badge/Code-Adobe%20After%20Effects-%23ee4e34?style=flat&logo=adobe-after-effects)
-![](https://img.shields.io/badge/Code-Firebase-%23ee4e34?style=flat&logo=firebase)
-![](https://img.shields.io/badge/Code-Firebase-%23ee4e34?style=flat&logo=firebase)
+![](https://img.shields.io/badge/Code-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro)
+![](https://img.shields.io/badge/Code-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop)
