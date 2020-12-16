@@ -22,5 +22,5 @@
 
 
 ![](https://img.shields.io/badge/Editing-Adobe%20After%20Effects-%23ee4e34?style=flat&logo=adobe-after-effects)
-![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro)
-![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&labelColor=fcedda)
+![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro&logoColor=ee4e34)
+![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&labelColor=fcedda&logoColor=white)
