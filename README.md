@@ -30,4 +30,4 @@
 ![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&logoColor=ee4e34&labelColor=fcedda)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jainsiddharth99)](https://github.com/jainsiddharth99/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jainsiddharth99)](https://github.com/jainsiddharth99/github-readme-stats)
