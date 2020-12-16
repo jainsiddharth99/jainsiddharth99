@@ -1,10 +1,10 @@
-![](sid.jpg)
+![](head.png)
 <p align='center'>
 <h3>Hello There!<h3>
  <h3>I am a software devloper and content creator.<h3>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<jainsiddharth99>&theme=<THEME_NAME>" />
 <!--
 **jainsiddharth99/jainsiddharth99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
