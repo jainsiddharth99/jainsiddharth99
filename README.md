@@ -30,5 +30,5 @@
 ![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&logoColor=ee4e34&labelColor=fcedda)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Siddharth Jain|https://raymond.li)" title="👋 Hi there! I'm Siddharth Jain"/>](https://raymond.li/)
+<p>
 
