@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=flat&logo=javascript&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=flat&logo=html5&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-CSS-%23ee4e34?style=flat&logo=css3&logoColor=ee4e34&labelColor=fcedda)
+
 ![](https://img.shields.io/badge/Code-TensorFlow-%23ee4e34?style=flat&logo=tensorflow&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-Keras-%23ee4e34?style=flat&logo=keras&logoColor=ee4e34&labelColor=fcedda)
 
@@ -36,6 +37,6 @@
  
  <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsiddharth99&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
  
- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
  
 
