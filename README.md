@@ -8,7 +8,7 @@
  <h3>I am a software devloper and content creator.<h3>
 </p>--->
 
-<h3>I am a Computer Science Engineer from India, currently working on a portfolio website.<h3>
+<h4>I am a Computer Science Engineer from India, currently working on a portfolio website.<h4>
  
  
 ## Tools & Technologies
