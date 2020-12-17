@@ -12,7 +12,7 @@
  
 
 # About me
-## Tools & Technologies
+### Tools & Technologies I use
 ![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=flat&logo=python&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=flat&logo=javascript&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=flat&logo=html5&logoColor=ee4e34&labelColor=fcedda)
@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&logoColor=ee4e34&labelColor=fcedda)
 
-## Stats
+### Github Stats
 <a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=jainsiddharth99&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
  
  
