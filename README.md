@@ -7,17 +7,15 @@
 <!---<h3>Hello There!<h3>
  <h3>I am a software devloper and content creator.<h3>
 </p>--->
-
+<div align="center">
 ## Tools & Technologies
 
-<div align="center">
 ![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=flat&logo=python&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=flat&logo=javascript&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=flat&logo=html5&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-CSS-%23ee4e34?style=flat&logo=css3&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-TensorFlow-%23ee4e34?style=flat&logo=tensorflow&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-Keras-%23ee4e34?style=flat&logo=keras&logoColor=ee4e34&labelColor=fcedda)
-
 
 ![](https://img.shields.io/badge/Database-MySQL-%23ee4e34?style=flat&logo=mysql&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Database-MongoDB-%23ee4e34?style=flat&logo=mongodb&logoColor=ee4e34&labelColor=fcedda)
