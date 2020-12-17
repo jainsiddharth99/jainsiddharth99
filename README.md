@@ -9,8 +9,9 @@
 </p>--->
 
 <h3>I am a Computer Science Engineer from India, currently working on a portfolio website.<h3>
+ 
+ 
 ## Tools & Technologies
-
 ![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=flat&logo=python&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=flat&logo=javascript&logoColor=ee4e34&labelColor=fcedda)
 ![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=flat&logo=html5&logoColor=ee4e34&labelColor=fcedda)
