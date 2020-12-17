@@ -41,6 +41,8 @@
  
  <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsiddharth99&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
  
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 
-
+ 
+```js script
+src="https://platform.linkedin.com/badges/js/profile.js"
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="siddharth-jain-74a496146"><a class="LI-simple-link" href='https://in.linkedin.com/in/siddharth-jain-74a496146?trk=profile-badge'>Siddharth Jain</a></div>
+```
