@@ -39,4 +39,3 @@
  
  <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsiddharth99&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
  
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=jainsiddharth99&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
