@@ -8,7 +8,8 @@
  <h3>I am a software devloper and content creator.<h3>
 </p>--->
 
-
+<p>I am a Computer Science Engineer from India.
+I am currently working on a portfolio website.</p>
 ## Tools & Technologies
 
 ![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=flat&logo=python&logoColor=ee4e34&labelColor=fcedda)
