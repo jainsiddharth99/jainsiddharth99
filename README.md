@@ -10,7 +10,7 @@
  <h3>I am a software devloper and content creator.<h3>
 </p>--->
 
-<h4>I am a Computer Science Engineer, currently working as an intern in Dexpert Systems<h4>
+<h4>Developer<h4>
  
 
 
