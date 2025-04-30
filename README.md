@@ -33,7 +33,7 @@ Untrade makes algorithmic trading accessible to all investors by offering a care
 
 **Pekka** 
 AI tool for image generation and image-to-video transformation, and a chatbot with dynamic system prompts tailored to various use cases.  
-[![Gaming Arcade Website](https://img.shields.io/badge/Pekka-8A9CC9?style=for-the-badge)](https://github.com/jainsiddharth99/ChatWithGPT$0)
+[![Gaming Arcade Website](https://img.shields.io/badge/Pekka-8A9CC9?style=for-the-badge)](https://github.com/jainsiddharth99/ChatWithGPT)
 
 
 **Gaming Arcade**  
