@@ -44,7 +44,6 @@ Earn crypto while playing retro games.
 
 <a href="https://github.com/jainsiddharth99/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=jainsiddharth99&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jainsiddharth99&theme=dark&hide_border=true&background=0D1117&stroke=8A9CC9&ring=8A9CC9&fire=8A9CC9" width="70%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsiddharth99&layout=compact&hide_border=true&title_color=8A9CC9&text_color=FFFFFF&bg_color=0D1117" width="70%" />
 
