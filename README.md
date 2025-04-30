@@ -1,44 +1,53 @@
-<!---![](7.png)--->
+<div align="center">
 
-![](1.gif)
+# Siddharth Jain
+ [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/jainsiddharth99)
 
-<!---![](3.png)
-![](4.gif)
-![](5.png)--->
+ Developer focusing on Python, Cloud, and AI applications.
 
-<!---<h3>Hello There!<h3>
- <h3>I am a software devloper and content creator.<h3>
-</p>--->
-
-<h1>Developer<h1>
- 
+</div>
 
 
-### Tools & Technologies
-![](https://img.shields.io/badge/Code-Python-%23ee4e34?style=flat&logo=python&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Code-JavaScript-%23ee4e34?style=flat&logo=javascript&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Code-HTML-%23ee4e34?style=flat&logo=html5&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Code-CSS-%23ee4e34?style=flat&logo=css3&logoColor=ee4e34&labelColor=fcedda)
+### Skills
 
-![](https://img.shields.io/badge/Code-TensorFlow-%23ee4e34?style=flat&logo=tensorflow&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Code-Keras-%23ee4e34?style=flat&logo=keras&logoColor=ee4e34&labelColor=fcedda)
+• Python 
 
-![](https://img.shields.io/badge/Database-MySQL-%23ee4e34?style=flat&logo=mysql&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Database-MongoDB-%23ee4e34?style=flat&logo=mongodb&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Database-Firebase-%23ee4e34?style=flat&logo=firebase&logoColor=ee4e34&labelColor=fcedda)
+• Cloud & DevOps 
 
-![](https://img.shields.io/badge/IDE-PyCharm-%23ee4e34?style=flat&logo=pycharm&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23ee4e34?style=flat&logo=Visual-studio-code&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/IDE-Android%20Studio-%23ee4e34?style=flat&logo=android-studio&logoColor=ee4e34&labelColor=fcedda)
+• AWS & GCP 
 
-![](https://img.shields.io/badge/Editing-Adobe%20After%20Effects-%23ee4e34?style=flat&logo=adobe-after-effects&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Editing-Adobe%20Premiere%20Pro-%23ee4e34?style=flat&logo=adobe-premiere-pro&logoColor=ee4e34&labelColor=fcedda)
-![](https://img.shields.io/badge/Editing-Adobe%20Photoshop-%23ee4e34?style=flat&logo=adobe-photoshop&logoColor=ee4e34&labelColor=fcedda)
+• FastAPI 
 
-### Github Stats
+• PostgreSQL, MongoDB & MySQL
+
+### Projects
+
+**Vector | Quantitative Trading Platform**  
+Vector is a comprehensive platform designed specifically for quantitative traders, providing all the essential tools needed for strategy development in one integrated environment.  
+[![Vector](https://img.shields.io/badge/Vector-8A9CC9?style=for-the-badge)](https://vector.untrade.io)
+
+
+**Untrade | Automated Crypto Trading Platform**  
+Untrade makes algorithmic trading accessible to all investors by offering a carefully curated selection of strategies.  
+[![Untrade Website](https://img.shields.io/badge/Untrade-8A9CC9?style=for-the-badge)](https://untrade.io)
+
+**Pekka** 
+AI tool for image generation and image-to-video transformation, and a chatbot with dynamic system prompts tailored to various use cases.  
+[![Gaming Arcade Website](https://img.shields.io/badge/Pekka-8A9CC9?style=for-the-badge)](https://github.com/jainsiddharth99/ChatWithGPT$0)
+
+
+**Gaming Arcade**  
+Earn crypto while playing retro games.  
+[![Gaming Arcade Website](https://img.shields.io/badge/Gaming_Arcade-8A9CC9?style=for-the-badge)](https://gamingarcade.io)
+
+### GitHub Statistics
+
 <a href="https://github.com/jainsiddharth99/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=jainsiddharth99&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
- 
- 
- <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsiddharth99&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
- 
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jainsiddharth99&theme=dark&hide_border=true&background=0D1117&stroke=8A9CC9&ring=8A9CC9&fire=8A9CC9" width="70%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainsiddharth99&layout=compact&hide_border=true&title_color=8A9CC9&text_color=FFFFFF&bg_color=0D1117" width="70%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jainsiddharth99&theme=nord_dark" width="70%" />
+
+</a>
