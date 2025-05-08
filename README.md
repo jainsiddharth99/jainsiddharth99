@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Siddharth Jain
  [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/jainsiddharth99)
@@ -49,4 +49,4 @@ Earn crypto while playing retro games.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jainsiddharth99&theme=nord_dark" width="70%" />
 
-</a>
+</a> -->
